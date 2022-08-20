@@ -36,3 +36,59 @@
     transform: rotate(360deg);
   }
 }
+.dropdown{
+  margin-bottom: 5px;
+}
+.dropdown:hover{
+  color: green;
+}
+.dropdown-item:hover{
+   color: green;
+}
+input{
+  margin-bottom: 10px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+.butn{
+  width: 170px;
+  margin-right: 30px;
+  border-radius: 10px;
+  box-shadow: 2px 5px #888888;
+  font-weight:bold;
+  color: black;
+  min-height: 40px;
+}
+.btn1{
+    background-color: green;
+    width: 170px;
+  margin-right: 30px;
+  border-radius: 10px;
+  box-shadow: 2px 5px #888888;
+  font-weight: bold;
+  color: white;
+  min-height: 40px;
+  border: none;
+}
+ .btn2{
+  background-color: #b13535;
+  width: 170px;
+  margin-right: 30px;
+  border-radius: 10px;
+  box-shadow: 2px 5px #888888;
+  font-weight: bold;
+  color: white;
+  min-height: 40px;
+  border: none;
+}
+.btn3{
+  background-color: blue;
+  width: 170px;
+  margin-right: 30px;
+  border-radius: 10px;
+  box-shadow: 2px 5px #888888;
+  font-weight: bold;
+  color: white;
+  min-height: 40px;
+  border: none;
+}
